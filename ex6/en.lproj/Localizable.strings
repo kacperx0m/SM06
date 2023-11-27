@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ex6
+
+  Created by student on 20/11/2023.
+  Copyright © 2023 SystemyMobilne. All rights reserved.
+*/
+"Information"="Information";
+"The faculty is running %i programs on graduate level." = "The faculty is running %i programs on graduate level.";
+"image"="wi-en";
